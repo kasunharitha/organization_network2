@@ -10,13 +10,13 @@ ii. Set Banner message
 This is Secure area. Please enter your Authentication.
 #################################################
 iii. Password:
-Enable Secret
-Console Password
+Enable Secret (Kasun@2025.1k)
+Console Password (kAsun@2025.1k)
 
 iv.
 SSH Configuration
 Username: Admin
-Secret: yourname@s$H.1k (First and Second Letters Capital)
+Secret: Kasun@s$H.1k 
 RSA Crypto key Module: 2048
 Domain-name: sltsc.lk
 
